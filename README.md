@@ -1,5 +1,3 @@
-# psychopy-mri-emulator
-
 Software emulator for fMRI hardware.
 
 Idea: Run or debug an experiment script using exactly the same code, i.e., for both testing and online data acquisition. 
@@ -7,7 +5,7 @@ To debug timing, you can emulate sync pulses and user responses. Limitations: py
 
 ## Installing
 
-Install this package with the following shell command:: 
+Install this package with the following shell command: 
 
     pip install psychopy-mri-emulator
 
