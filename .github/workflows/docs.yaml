@@ -5,7 +5,7 @@ on: push
 jobs:
   build:
     name: Build docs
-    runs-on: macos-11
+    runs-on: ubuntu-latest
 
     steps:
     - name: Checkout
